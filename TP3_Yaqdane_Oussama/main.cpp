@@ -72,13 +72,13 @@ int main(){
 
 int main(){
     const int MONTHS_IN_YEAR = 12;
-    std::cout << "Number of months in a year: " << MONTHS_IN_YEAR << std::endl;
+    cout << "Number of months in a year: " << MONTHS_IN_YEAR << endl;
 
     constexpr int CIRCLE_RADIUS = 7;
-    std::cout << "Radius of the circle is: " << CIRCLE_RADIUS << std::endl;
+    cout << "Radius of the circle is: " << CIRCLE_RADIUS << endl;
 
     double circle_area = pow(CIRCLE_RADIUS, 2) * PI;
-    std::cout << "The area of the circle is: " << circle_area << std::endl;
+    cout << "The area of the circle is: " << circle_area << endl;
 }
 
 
@@ -98,11 +98,11 @@ int safeMultiply(int a,int b){
 int main(){
     int num1 = 30000;
     int num2 = 1000;
-    std::cout << safeMultiply(num1, num2) << std::endl;
+    cout << safeMultiply(num1, num2) << endl;
     
     num1 = 300000;
     num2 = 1000000;
-    std::cout << safeMultiply(num1, num2) << std::endl;
+    cout << safeMultiply(num1, num2) << endl;
 }
 
 

@@ -1,0 +1,10 @@
+This is just a regular line.
+Here we got a <mark>highlighted</mark> word.
+Another clean line, nothing sus.
+Wait for it... boom! <mark>Another one</mark>.
+C++ is love, C++ is life.
+<mark>Full line marked like crazy</mark>
+One more boring line.
+Yo <mark>this</mark> is <mark>wild</mark>.
+No marks here, move along.
+Final line with some <mark>heat</mark> in it.
